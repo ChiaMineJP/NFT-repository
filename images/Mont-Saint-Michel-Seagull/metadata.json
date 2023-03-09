@@ -1,0 +1,11 @@
+{
+    "format": "CHIP-0007",
+    "name": "Mont Saint-Michel Seagull",
+    "description": "Mont Saint-Michel Seagull is a seabird species commonly found in the vicinity of the Mont Saint-Michel island in France.",
+    "attributes": [
+        {
+            "trait_type": "Year",
+            "value": "2020"
+        }
+    ]
+}
