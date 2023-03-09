@@ -1,0 +1,15 @@
+{
+    "format": "CHIP-0007",
+    "name": "Pork loin steak",
+    "description": "Pork loin steak is a thick cut of pork loin, grilled or pan-fried, tender and juicy with a distinctive pork flavor, and affordable.",
+    "collection": {
+        "id": "delicious-foods",
+        "name": "Collection of delicious foods"
+    },
+    "attributes": [
+        {
+            "trait_type": "Year",
+            "value": "2020"
+        }
+    ]
+}
